@@ -1,0 +1,23 @@
+h1 {
+    color: black;
+    background: grey;
+    font: 12px;
+  }
+  h2 {
+    color: navy;
+    padding: 12px;
+  }
+  li {
+      color:black;
+      font:16px
+  }
+  h3 {
+      style:strong;
+      padding: 6px;
+      font-size: 20px;
+    }
+    h4 {
+        padding:6px;
+        font-size: 20px;
+      }
+  
